@@ -12,4 +12,22 @@
 
 - For the following steps outlined below, we can use some of the instructions found at https://github.com/bitcoin/bitcoin/blob/master/doc/dependencies.md.
 
-<>
+`$sudo apt update;`
+
+`$sudo apt upgrade -y;`
+
+`$sudo apt install git -y;`
+
+`$sudo apt install htop -y;`
+
+`$sudo apt install curl -y;`
+
+`$sudo apt install bash-completion -y;`
+
+`$sudo apt install jq -y;`
+
+`$sudo apt install qrencode -y;`
+
+`$sudo apt install dphys-swapfile -y;`
+
+`$sudo apt install hdparm -y;`
